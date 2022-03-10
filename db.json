@@ -1,0 +1,252 @@
+{
+  "products": [
+    {
+      "title": "Art work",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/%D0%9A%D0%B8%D1%80%D0%B3%D0%B8%D0%B7%D1%81%D0%BA%D0%B8%D0%B5_%D0%BA%D0%B8%D0%B1%D0%B8%D1%82%D0%BA%D0%B8_%D0%BD%D0%B0_%D1%80%D0%B5%D0%BA%D0%B5_%D0%A7%D1%83.jpg/1280px-%D0%9A%D0%B8%D1%80%D0%B3%D0%B8%D0%B7%D1%81%D0%BA%D0%B8%D0%B5_%D0%BA%D0%B8%D0%B1%D0%B8%D1%82%D0%BA%D0%B8_%D0%BD%D0%B0_%D1%80%D0%B5%D0%BA%D0%B5_%D0%A7%D1%83.jpg",
+      "price": "600",
+      "type": "kyrgyz",
+      "description": "for private collection",
+      "id": 1
+    },
+    {
+      "title": "nsjk",
+      "image": "https://i.pinimg.com/736x/3c/9e/45/3c9e458f0e210159a2033d3dbf7f2f66.jpg",
+      "price": 600,
+      "type": "modern",
+      "description": "for private collection",
+      "id": 2
+    },
+    {
+      "title": "hg",
+      "image": "https://northcyprusinform-upload.s3.eu-central-1.amazonaws.com/sotbit.htmleditoraddition/418/41808154ac7a078e9bd1282ce18d347b/39c2789b9e923a991990ab29cfb25ba6.jpg",
+      "price": "700",
+      "type": "kyrgyz",
+      "description": "for private collection",
+      "id": 3
+    },
+    {
+      "title": "fd",
+      "image": "https://i.pinimg.com/originals/c5/5c/4a/c55c4ae61f51488e2456dccd4a163570.jpg",
+      "price": null,
+      "type": "kyrgyz",
+      "description": "for private collection",
+      "id": 4
+    },
+    {
+      "title": "hg",
+      "image": "https://soviet-art.ru/wp-content/uploads/2017/10/Outskirts-of-the-State-Farm.jpg",
+      "price": 500,
+      "type": "kyrgyz",
+      "description": "for private collection",
+      "id": 5
+    },
+    {
+      "title": "hbxdsn",
+      "image": "http://painting.artyx.ru/painting/item/f00/s00/e0000662/pic/000000.jpg",
+      "price": "450",
+      "type": "kyrgyz",
+      "description": "for private collection",
+      "id": 6
+    },
+    {
+      "title": "jbhsj",
+      "image": "https://im0-tub-ru.yandex.net/i?id=c49c8cbb5d068bc508e9284cdfdd4f4f-l&ref=rim&n=13&w=1080&h=1350",
+      "price": "800",
+      "type": "kyrgyz",
+      "description": "for private collection",
+      "id": 7
+    },
+    {
+      "title": "hh",
+      "image": "https://www.artmajeur.com/medias/hd/v/i/viridon/artwork/13275680_.jpg",
+      "price": null,
+      "type": "kyrgyz",
+      "description": "for private collection",
+      "id": 8
+    },
+    {
+      "title": "kk",
+      "image": "https://i.pinimg.com/736x/3a/7e/aa/3a7eaac0d9ec440d67dac1535b4a897d.jpg",
+      "price": "1200",
+      "type": "kyrgyz",
+      "description": "for private collection",
+      "id": 9
+    },
+    {
+      "title": "ll",
+      "image": "https://soviet-art.ru/wp-content/uploads/2016/05/The-daughter-of-Soviet-Kirghizia.-1940s.jpg",
+      "price": null,
+      "type": "ll",
+      "description": "ll",
+      "id": 10
+    },
+    {
+      "title": "jj",
+      "image": "http://www.elabuga.com/artSymposium/img/lullabyColors02_.jpg",
+      "price": null,
+      "type": "jj",
+      "description": "jj",
+      "id": 11
+    },
+    {
+      "title": "dd",
+      "image": "https://myslide.ru/documents_7/5c48256e14be29d47b28b18b070ddd6d/img3.jpg",
+      "price": null,
+      "type": "dd",
+      "description": "dd",
+      "id": 12
+    },
+    {
+      "title": "ww",
+      "image": "https://www.artmajeur.com/medias/hd/v/i/viridon/artwork/13275680_.jpg",
+      "price": null,
+      "type": "ww",
+      "description": "ww",
+      "id": 13
+    },
+    {
+      "title": "qq",
+      "image": "https://i.pinimg.com/originals/7e/79/46/7e7946296b8704a29f360ee62221b981.jpg",
+      "price": "700",
+      "type": "modern",
+      "description": "for private collection",
+      "id": 14
+    },
+    {
+      "title": "zz",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/9d789523852235.58f29d6e3c237.png",
+      "price": null,
+      "type": "zz",
+      "description": "zz",
+      "id": 15
+    },
+    {
+      "title": "xx",
+      "image": "https://i.pinimg.com/originals/d2/15/6c/d2156ce20581b3010cf30e9a20a51383.jpg",
+      "price": "2300",
+      "type": "modern",
+      "description": "for private collection",
+      "id": 16
+    },
+    {
+      "title": "ee",
+      "image": "https://i.pinimg.com/originals/a1/c4/2f/a1c42f538e6e72e84c3835269a2351ac.jpg",
+      "price": "1800",
+      "type": "modern",
+      "description": "for private collection",
+      "id": 17
+    },
+    {
+      "title": "yy",
+      "image": "https://ic.pics.livejournal.com/tiina/12725143/20020957/20020957_original.jpg",
+      "price": "5000",
+      "type": "kyrgyz",
+      "description": "for private collection",
+      "id": 18
+    },
+    {
+      "title": "gg",
+      "image": "https://i.pinimg.com/originals/ce/77/1c/ce771ca7946a0d740e21cbc4bb15d676.jpg",
+      "price": null,
+      "type": "gg",
+      "description": "gg",
+      "id": 19
+    },
+    {
+      "title": "vv",
+      "image": "https://sun9-73.userapi.com/IhzFhcDBG2Hyn9bkzN8u22g9H5sdH1Ic66uw4A/rGeFHqtxr2U.jpg",
+      "price": "350",
+      "type": "kyrgyz",
+      "description": "for private collection",
+      "id": 20
+    },
+    {
+      "title": "bb",
+      "image": "https://www.neizvestniy-geniy.ru/images/works/photo/2013/06/957727_1.jpg",
+      "price": null,
+      "type": "bb",
+      "description": "vv",
+      "id": 21
+    },
+    {
+      "title": "nn",
+      "image": "https://cs5.livemaster.ru/storage/d2/97/ee29d3b5cd601d40abb2d52f7f7k--kartiny-i-panno-kartina-maslom-gornyj-pejzazh-s-domikami.jpg",
+      "price": null,
+      "type": "nn",
+      "description": "nn",
+      "id": 22
+    },
+    {
+      "title": "mm",
+      "image": "https://cs5.livemaster.ru/storage/8d/65/f810978e2317052382d7a46c733b--kartiny-i-panno-kartiny-leto-v-gorah.jpg",
+      "price": null,
+      "type": "mm",
+      "description": "mm",
+      "id": 23
+    },
+    {
+      "title": "cc",
+      "image": "http://media.withtank.com/7aea33bd18/niemann_hennie_jnr_-_baistas_2016_80_x_81_cm_700_wide.jpg",
+      "price": null,
+      "type": "cc",
+      "description": "cc",
+      "id": 24
+    },
+    {
+      "title": "hbh",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/%27Tapestries_of_Desire%27_150x130_cm%2C_Oil_on_Belgian_linen_by_Hennie_Niemann_jnr_2019%2C_signed_and_dated_lower_left.jpg",
+      "price": null,
+      "type": "ghgh",
+      "description": "ghhg",
+      "id": 25
+    },
+    {
+      "title": "hghg",
+      "image": "https://arshak.net/ru/wp-content/uploads/sites/2/2015/06/11348068_10205807767386724_984372526_o.jpg",
+      "price": null,
+      "type": "ghgh",
+      "description": "ghgh",
+      "id": 26
+    },
+    {
+      "title": "dd",
+      "image": "https://artsdot.com/ADC/Art.nsf/O/9HBEQY/$File/MariaBlanchard-Theluteplayer.JPG",
+      "price": null,
+      "type": "dd",
+      "description": "dd",
+      "id": 27
+    },
+    {
+      "title": "ff",
+      "image": "https://i.pinimg.com/736x/87/a9/4c/87a94c0ffddf1950c3bb8a0794fc4075.jpg",
+      "price": null,
+      "type": "ff",
+      "description": "ff",
+      "id": 28
+    },
+    {
+      "title": "dd",
+      "image": "https://cont.ws/uploads/pic/2021/6/i%20%28509%29.jpg",
+      "price": null,
+      "type": "ss",
+      "description": "ss",
+      "id": 29
+    },
+    {
+      "title": "hdhd",
+      "image": "https://i.pinimg.com/originals/ab/fb/e8/abfbe8ebbd838bdad97530078feb639c.png",
+      "price": null,
+      "type": "dhdh",
+      "description": "dhdhd",
+      "id": 30
+    },
+    {
+      "title": "fhhfh",
+      "image": "https://pbs.twimg.com/media/DfUGjYJW4AABEx-.jpg:large",
+      "price": null,
+      "type": "zz",
+      "description": "zz",
+      "id": 31
+    }
+  ]
+}
